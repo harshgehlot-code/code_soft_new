@@ -16,13 +16,14 @@
 
 ### Task Images
 
-![Number Game Image 1]
-![Number Game Image 2]
+![Number Game Image 1](https://github.com/harshgehlot-code/code_soft_new/assets/172536813/695ba86b-f9d4-49af-99cb-2a183923cc12)
+![Number Game Image 2](https://github.com/harshgehlot-code/code_soft_new/assets/172536813/ea86bc05-1d51-4413-9657-b55e2c80e321)
+
 
 ### Implementation Details
 
-Run ```javac NumberGameGUI.java``` in terminal
-then ```java NumberGameGUI```
+Run ```javac GuessingGame.java``` in terminal
+then ```java GuessingGame```
 
 ---
 
@@ -39,8 +40,10 @@ Display Results: Show the total marks, average percentage, and the corresponding
 
 ### Task Images
 
-![Grade Calculator Image 1]
-![Grade Calculator Image 2]
+![Grade Calculator Image 1](https://github.com/harshgehlot-code/code_soft_new/assets/172536813/0da1ff0d-6682-4bf7-b967-9768c490dc2f)
+
+![Grade Calculator Image 2](https://github.com/harshgehlot-code/code_soft_new/assets/172536813/a6c564e9-8eb3-43e7-850a-1822bbec80e6)
+
 
 ### Implementation Details
 
@@ -63,14 +66,16 @@ then ```java GradeCalculator```
 
 ### Task Images
 
-![ATM Interface Image 1]
-![ATM Interface Image 2]
-![ATM Interface Image 2]
+![ATM Interface Image 1](https://github.com/harshgehlot-code/code_soft_new/assets/172536813/b400a69c-0fe7-4507-96c4-afbd2250f818)
+
+![ATM Interface Image 2](https://github.com/harshgehlot-code/code_soft_new/assets/172536813/fad4218b-bc56-4e59-94be-2b3aeaab463a)
+
+![ATM Interface Image 3](https://github.com/harshgehlot-code/code_soft_new/assets/172536813/7305c737-8e2c-404c-a839-16503dd4342a)
 
 ### Implementation Details
 
-Run ```javac ATMGUI.java``` in terminal
-then ```java ATMGUI```
+Run ```javac Main.java``` in terminal
+then ```java Main```
 
 ---
 
@@ -87,11 +92,14 @@ Result Screen: Display the final score and a summary of correct/incorrect answer
 
 ### Task Images
 
-![Quiz Application Image 1]
+![Quiz Application Image 1](https://github.com/harshgehlot-code/code_soft_new/assets/172536813/607db80a-8c87-4ffe-a7c4-b6a81375be44)
+
+![Quiz Application Image 2](https://github.com/harshgehlot-code/code_soft_new/assets/172536813/e3ea8ed5-e613-4c28-b46e-d90a5f4363a2)
+
 
 ### Implementation Details
 
-Run ```javac QuizApplication.java``` in terminal
-then ```java QuizApplication```
+Run ```javac QuizGame.java``` in terminal
+then ```java QuizGame```
 
 ---
